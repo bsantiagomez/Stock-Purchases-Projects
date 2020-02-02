@@ -1,2 +1,2 @@
 # Stock-Purchases-Projects
-Stock Purchases Project assignment made from scratch and only given the stockDataCPSC121.txt
+Stock Purchases Project made during first year. This Project was an assignment that I had made from scratch based off the instructions and the stockDataCPSC121.txt given.
